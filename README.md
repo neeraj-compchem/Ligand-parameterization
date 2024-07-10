@@ -17,15 +17,14 @@ All files should be located in a single directory. If necessary, use the environ
 # Packages requirements
 The following packages were used with their mentioned versions.
 ```
-matplotlib = 3.4.2
+python = 3.10.12
+numpy = 1.25.2  
+pandas = 2.0.3 
+matplotlib = 3.7.1
 morfeus = 0.5.5 
-numpy = 1.22.4  
-pandas = 1.3.3 
-rdkit = 2022.03.2   
-scipy = 1.4.1 
-seaborn = 0.11.1 
-sklearn = 0.23.2  
-xgboost = 1.3.3 
+scipy = 1.11.4 
+seaborn = 0.13.1 
+sklearn = 1.2.2  
 ```
 
 ## How to cite
