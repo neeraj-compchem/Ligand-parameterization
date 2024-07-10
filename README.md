@@ -16,7 +16,7 @@ All files should be located in a single directory. If necessary, use the environ
 
 
 ## How to cite
-This code is released under the MIT license. Commercial use, Modification, Distribution, and Private use are all permitted. Please use the following citation to acknowledge this workflow:
+The code provided here is released under the MIT license. Commercial use, modification, and private use are all permitted. Please use the following citation to acknowledge this workflow:
 
 The manuscript is under submission. The final reference will be updated here.
 
