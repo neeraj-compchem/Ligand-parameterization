@@ -8,13 +8,13 @@ Last updated on July 10, 2024
 ## Overview
 The data file and script notebooks should be present in the same directory. 
 
-Notebook 1 (nb1_MVLR_analysis.ipynb)
+Notebook 1 (nb1_MVLR_analysis.ipynb):
 - Ligand feature analysis
 - MVLR model screening and sorting using the "Best subset selection" method
 - Prediction performance visualization
 - Performance summary plot
 
-Notebook 2 (nb2_reactivity_analysis.ipynb)
+Notebook 2 (nb2_reactivity_analysis.ipynb):
 - Univariate reactivity classification for selected features
 
 
