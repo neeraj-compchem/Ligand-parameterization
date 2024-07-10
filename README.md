@@ -6,21 +6,21 @@ This is a data and code repository for the following manuscript:<br>
 Last updated on July 10, 2024
 
 ## Overview
-The data file and script notebooks should be present in the same directory. You can use the below-mentioned packages to reproduce the results.
+The data file and script notebooks should be present in the same directory. 
 
 Notebook 1 (nb1_MVLR_analysis.ipynb)
 - Ligand feature analysis
 - MVLR model screening and sorting using the "Best subset selection" method
 - Prediction performance visualization
 - Performance summary plot
-
+:<br>
 Notebook 2 (nb2_reactivity_analysis.ipynb)
 - Univariate reactivity classification for selected features
 - Feature-wise threshold values
 
 
 # Packages requirements
-The following packages were present during code development in the Google Colab notebooks.
+The following packages were present during code development in the Google Colab notebooks. Use of the same versions is recommended to reproduce the results.
 ```
 python = 3.10.12
 numpy = 1.25.2  
