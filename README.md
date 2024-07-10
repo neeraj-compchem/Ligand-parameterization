@@ -13,7 +13,7 @@ Notebook 1 (nb1_MVLR_analysis.ipynb)
 - MVLR model screening and sorting using the "Best subset selection" method
 - Prediction performance visualization
 - Performance summary plot
-:<br>
+<br><br>
 Notebook 2 (nb2_reactivity_analysis.ipynb)
 - Univariate reactivity classification for selected features
 - Feature-wise threshold values
