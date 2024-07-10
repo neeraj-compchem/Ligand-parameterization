@@ -9,7 +9,7 @@ Last updated on July 10, 2024
 The data file and script notebooks should be present in the same directory. 
 
 Notebook 1 (nb1_MVLR_analysis.ipynb):
-- Ligand feature analysis
+- Ligand feature analysis: Box-plot, and Pearson correlation
 - MVLR model screening and sorting using the "Best subset selection" method
 - Prediction performance visualization
 - Performance summary plot
@@ -25,7 +25,6 @@ python = 3.10.12
 numpy = 1.25.2  
 pandas = 2.0.3 
 matplotlib = 3.7.1
-morfeus = 0.5.5 
 scipy = 1.11.4 
 seaborn = 0.13.1 
 sklearn = 1.2.2  
