@@ -6,16 +6,21 @@ This is a data and code repository for the following manuscript:<br>
 Last updated on July 10, 2024
 
 ## Overview
-All files should be located in a single directory. If necessary, use the environment file for relevant programs; the input files (Excel) and code (as Jupyter Notebooks) needed to reproduce this study are briefly summarized here:
+The data file and script notebooks should be present in the same directory. You can use the below-mentioned packages to reproduce the results.
 
-- small-molecule-partitioning.yml: Environment file for code used in this study
-- QikProp_UMAP_input.xlsx: Excel file containing the small molecule QikProp descriptors for constructing chemical space and conducting clustering analysis 
-- QikProp_modeling_input.xlsx: Excel file containing the small molecule QikProp descriptors for statistical modeling
-- UMAP_clustering.ipynb: Code for uniform manifold and approximation (UMAP) dimensionality reduction and chemical space with associated clustering analysis
-- modeling.ipynb: Code for all statistical models used in this study
+Notebook 1 (nb1_MVLR_analysis.ipynb)
+- Ligand feature analysis
+- MVLR model screening and sorting using the "Best subset selection" method
+- Prediction performance visualization
+- Performance summary plot
+
+Notebook 2 (nb2_reactivity_analysis.ipynb)
+- Univariate reactivity classification for selected features
+- Feature-wise threshold values
+
 
 # Packages requirements
-The following packages were used with their mentioned versions.
+The following packages were present during code development in the Google Colab notebooks.
 ```
 python = 3.10.12
 numpy = 1.25.2  
