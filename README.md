@@ -1,6 +1,6 @@
 # Ligand parameterization
 This is a data and code repository for the following manuscript:<br>
-"Parametrization of <i>κ</i><sup>2</sup>-N,O-Oxazolines Preligands for Enantioselective Cobaltaelectro-catalyzed C–H Activations".
+"Parametrization of <i>κ</i><sup>2</sup>-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-catalyzed C–H Activations".
 
 
 Last updated on July 10, 2024
