@@ -3,7 +3,7 @@ This is a data and code repository for the following manuscript:<br>
 "Parametrization of <i>κ</i><sup>2</sup>-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-catalyzed C–H Activations".
 
 
-Last updated on July 10, 2024
+Last updated on Aug 13, 2024
 
 ## Overview
 The data file and script notebooks should be present in the same directory. 
