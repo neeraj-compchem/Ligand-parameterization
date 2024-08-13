@@ -14,7 +14,7 @@ Notebook 1 (nb1_MVLR_analysis.ipynb):
 - Prediction performance visualization
 - Performance summary plot
 
-Notebook 2 (nb2_reactivity_analysis.ipynb):
+Notebook 2 (nb2_univariate_reactivity_analysis.ipynb):
 - Univariate reactivity classification for selected features
 
 
