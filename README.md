@@ -38,7 +38,7 @@ The code provided here is released under the MIT license. Commercial use, modifi
 
 ```
 @article{doi:10.1021/acscatal.5c00250,
-author = {Dana, Suman and Pandit, Neeraj Kumar and Boos, Philipp and von M{\"u}nchow, Tristan and Peters, Sven Erik and Trienes, Sven and Haberstock, Laura and Herbst-Irmer, Regine and Stalke, Dietmar and Ackermann, Lutz},
+author = {Dana, Suman and Pandit, Neeraj Kumar and Boos, Philipp and von Münchow, Tristan and Peters, Sven Erik and Trienes, Sven and Haberstock, Laura and Herbst-Irmer, Regine and Stalke, Dietmar and Ackermann, Lutz},
 title = {Parametrization of κ2-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations},
 journal = {ACS Catalysis},
 volume = {15},
