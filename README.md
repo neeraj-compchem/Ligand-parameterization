@@ -33,7 +33,14 @@ sklearn = 1.2.2
 ## How to cite
 The code provided here is released under the MIT license. Commercial use, modification, and private use are all permitted. Please use the following citation to acknowledge this workflow:
 
-The manuscript is under submission. The final reference will be updated here.
-
-## Contact details
-Email: neerajkumar.pandit@uni-goettingen.de; Lutz.Ackermann@chemie.uni-goettingen.de
+@article{doi:10.1021/acscatal.5c00250,
+author = {Dana, Suman and Pandit, Neeraj Kumar and Boos, Philipp and von M{\"u}nchow, Tristan and Peters, Sven Erik and Trienes, Sven and Haberstock, Laura and Herbst-Irmer, Regine and Stalke, Dietmar and Ackermann, Lutz},
+title = {Parametrization of κ2-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations},
+journal = {ACS Catalysis},
+volume = {15},
+pages = {4450-4459},
+year = {2025},
+doi = {10.1021/acscatal.5c00250},
+URL = {https://doi.org/10.1021/acscatal.5c00250},
+eprint = {https://doi.org/10.1021/acscatal.5c00250}
+}
